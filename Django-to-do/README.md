@@ -28,6 +28,3 @@ This is a sample project that a novice django developer can use to get started.
   $python manage.py runserver
   ```
 
-- Visit `127.0.0.1:8000` in your browser to enjoy the awesome app!
-
-Built with ♥ by [`Omkar Pathak`](http://www.omkarpathak.in/)
